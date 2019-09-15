@@ -14,5 +14,8 @@ of solution".
 
 This means that the component can not be directly reused without changing the code.
 
+I believe this often happens because they start thinking about the data they want
+to show before they make the visual component.
+
 A mental trick I use to help me design more generic components is to always think from
 the perspective of the component and not about my data.
